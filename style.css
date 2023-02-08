@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body {
+    background-color: black;
+}
+.img {
+    position: absolute;
+    opacity: 0;
+    transition: 1s;
+}
+.img1 {
+    left: 1200px;
+    top: 300px;
+}
+.img2 {
+    left: 500px;
+    top: 200px;
+}
+.img3 {
+    left: 200px;
+    top: 600px;
+}
+.img4 {
+    left: 1500px;
+    top: 700px;
+}
+.img5 {
+    left: 700px;
+    top: 800px;
+}
+.img6 {
+    left: 100px;
+}
+p {
+    position: absolute;
+    left: 490px;
+    color: white;
+    text-align: center;
+    top: 500px;
+} */
+.block {
+    background: url(https://gamerwall.pro/uploads/posts/2022-03/1647898486_3-gamerwall-pro-p-fon-doroga-krasivie-4.jpg)center/cover;
+    width: 100%;
+    height: 100vh;
+}
+img {
+    position: absolute;
+    left: 680px;
+    top: 500px;
+}
